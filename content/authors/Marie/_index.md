@@ -19,7 +19,7 @@ name: Marie Buijs
 organizations:
 - name: Utrecht University
   url: ""
-role: HALLO Student MSc. Methodology & Statistics
+role: Student MSc. Methodology & Statistics
 social:
 - icon: linkedin
   icon_pack: fab
