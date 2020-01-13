@@ -1,8 +1,6 @@
 ---
 authors:
 - admin
-bio: HALLOMy research interests include distributed robotics, mobile computing and programmable
-  matter.
 education:
   courses:
   - course: MSc. Methodology & Statistics
@@ -21,7 +19,7 @@ name: Marie Buijs
 organizations:
 - name: Utrecht University
   url: ""
-role: Student MSc. Methodology & Statistics
+role: HALLO Student MSc. Methodology & Statistics
 social:
 - icon: linkedin
   icon_pack: fab
